@@ -8,6 +8,6 @@
 ### Bibliography
 <a id="1">[1]</a> 
 `M Rajesh Kannan, Navish Kumar, and Shivaramakrishna Pragada. Bounds For The Extremal Eigenvalues of Gain
-Laplacian. arXiv preprint arXiv:2009.13788, 2021.`
+Laplacian. arXiv preprint arXiv:2102.07560.`
 
  
